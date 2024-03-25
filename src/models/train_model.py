@@ -102,3 +102,4 @@ if __name__=="__main__":
     train_and_evaluate(config_path=parsed_args.config)
 
 
+#model trained 
